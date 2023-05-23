@@ -1,3 +1,3 @@
-destino = Floresta1;
-xx = 300;
-yy = 430;
+destino = Quintal_Casa;
+xx = 284;
+yy = 88;

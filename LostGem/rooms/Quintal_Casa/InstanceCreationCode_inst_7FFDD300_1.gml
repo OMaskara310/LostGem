@@ -1,3 +1,3 @@
-destino = Vila;
-xx = 300;
-yy = 5;
+destino = Fora_Casa;
+xx = 304;
+yy = 082;

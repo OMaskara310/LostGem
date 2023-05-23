@@ -1,3 +1,3 @@
 destino = Floresta1;
-xx = 300;
-yy = 430;
+xx = 061;
+yy = 072;

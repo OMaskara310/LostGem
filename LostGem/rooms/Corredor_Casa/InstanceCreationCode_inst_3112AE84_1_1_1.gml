@@ -1,3 +1,3 @@
-destino = Floresta1;
-xx = 300;
-yy = 430;
+destino = Interior_Casa;
+xx = 684;
+yy = 304;
